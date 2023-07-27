@@ -1,5 +1,5 @@
 {
-  "name": "mvc-tech-blog",
+  "name": "techblog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,16 +10,7 @@
     "resetdb": "mysql -u root -p <  ./db/schema.sql",
     "seed": "node seeds/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hseymo/MVC-tech-blog.git"
-  },
-  "author": "Haley Seymour",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hseymo/MVC-tech-blog/issues"
-  },
-  "homepage": "https://github.com/hseymo/MVC-tech-blog#readme",
+  
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.3",
