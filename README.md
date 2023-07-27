@@ -94,11 +94,52 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 
 ## Screenshots
+* login page
+  ![login_page](https://github.com/soniasebastian/techblog_handlebars/assets/130253087/f58b121c-2211-4f74-9616-344eb30fa230)
+
+
+
+  
+* Homepage
+
+  
+  ![tech_homepage](https://github.com/soniasebastian/techblog_handlebars/assets/130253087/a3a8cbd3-4811-4495-bc0a-7ebc81ca3ed6)
+
+
+
+
+
+* Create a new blogpost
+
+  
+  ![createnew](https://github.com/soniasebastian/techblog_handlebars/assets/130253087/c60009a5-f254-4e9f-bcdf-63c2ed12cd4d)
+
+
+
+  
+* Post a comment
+
+  
+  ![comment](https://github.com/soniasebastian/techblog_handlebars/assets/130253087/39927015-0bbb-4c60-81aa-bc0031e06c65)
+
+
+
+
+  
+* Edit a comment
+
+  
+ ![edit](https://github.com/soniasebastian/techblog_handlebars/assets/130253087/1a2a1ac0-e7a1-4974-9383-f1bd16379d01)
+
+
+
+
+
 
 
 
 ## Links
-The URL of the github repository (https://github.com/soniasebastian/techblo_handlebars)
+The URL of the github repository (https://github.com/soniasebastian/techblog_handlebars)
 
 
 ## Contribution:
