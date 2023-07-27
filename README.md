@@ -139,6 +139,9 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 
 ## Links
+The URL of deployed application in Heroku (https://powerful-brushlands-30942-1c181b1eee8a.herokuapp.com/)
+
+
 The URL of the github repository (https://github.com/soniasebastian/techblog_handlebars)
 
 
